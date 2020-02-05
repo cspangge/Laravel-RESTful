@@ -81,10 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel, RESTful API Demo Site
-                </div>
-                <div class="title m-b-md">
-                    Keep testing
+                    Laravel, RESTful API
                 </div>
 
                 <div class="links">

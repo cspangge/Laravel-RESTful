@@ -83,6 +83,9 @@
                 <div class="title m-b-md">
                     Laravel, RESTful API Demo Site
                 </div>
+                <div class="title m-b-md">
+                    Keep testing
+                </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>

@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel, Hello World
+                    Laravel, RESTful API Demo Site
                 </div>
 
                 <div class="links">
